@@ -1,0 +1,9 @@
+# Site settings
+title: "Just another test website"
+name: "Kianoosh Naghavi"
+author: Kianoosh Naghavi
+ 
+# Build settings
+markdown: kramdown
+encoding: utf-8
+timezone: Asia/Tehran
