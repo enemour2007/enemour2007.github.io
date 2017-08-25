@@ -1,9 +1,0 @@
-# Site settings
-title: "enemour test website"
-name: "Enemour 2007"
-author: Enemour
- 
-# Build settings
-markdown: kramdown
-encoding: utf-8
-timezone: Asia/Tehran
